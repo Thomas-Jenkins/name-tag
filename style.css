@@ -1,0 +1,40 @@
+:root{
+    --color01: #60979C;
+    --color02: #D1FBFF;
+    --color03: #A6E3E8;
+    --color04: #9C7051;
+    --color05: #E8C2A7;
+}
+
+body{
+    background: var(--color02);
+    text-align: center;
+    border: solid 1px black;
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: xx-large;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+main {
+    background-color: var(--color04);
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+section {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+#div01 {
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: xx-large;
+}
+
+#div01 span{
+    background: var(--color04);
+}
